@@ -2,13 +2,17 @@
 
 I'm a **Frontend Developer** specializing in **React.js** and modern web technologies. Passionate about building interactive, scalable, and performant user interfaces.
 
+**Skill Set**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+
 <!--
 **Venkata-10/Venkata-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
