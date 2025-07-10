@@ -1,9 +1,9 @@
 ## Hi there 👋
 
+I'm a **Frontend Developer** specializing in **React.js** and modern web technologies. Passionate about building interactive, scalable, and performant user interfaces.
+
 <!--
 **Venkata-10/Venkata-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a **Frontend Developer** specializing in **React.js** and modern web technologies. Passionate about building interactive, scalable, and performant user interfaces.
 
 Here are some ideas to get you started:
 
