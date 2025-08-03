@@ -11,7 +11,7 @@ I'm a **Frontend Developer** specializing in **React.js** and modern web technol
 ## Tech Stack
 
 - React
-- JavaScript (ES6+), TypeScript (learning)
+- JavaScript (ES6+), TypeScript
 - Redux Toolkit, Webapack, Babel
 - CSS, BootStrap
 - Git & GitHub
